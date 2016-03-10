@@ -18,6 +18,12 @@ The TOB is responsible for managing conflicts, violations of procedures or guide
 
 https://groups.google.com/a/opencontainers.org/forum/#!forum/tob (tob@opencontainers.org)
 
+## Voting on Proposals
+
+In various situations the TOB needs to vote. When approving new projects or resolving issued raised by the TOB. A vote passes with two-thirds vote of votes cast. These votes can happen on the phone, email, or via a voting service, when appropriate.
+
+TOB members can either respond "agree, yes, +1", "disagree, no, -1", or "abstain". An abstain vote equals not voting at all.
+
 ## Meeting Minutes
 
 * [Feb 23rd, 2016](https://docs.google.com/presentation/d/1thxH4PVmHZO3kWrrLL6H1jAhL4r31Zy8xn8wg1LCmjY/edit#slide=id.p3)
